@@ -21,6 +21,10 @@ build/
 *.swp
 *.swo
 
+# Config folders
+.config/
+.bolt/
+
 # OS
 .DS_Store
 Thumbs.db
